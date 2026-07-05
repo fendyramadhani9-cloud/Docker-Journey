@@ -93,7 +93,7 @@ Begitu juga satu Image dapat membuat banyak Container.
 Diagram berikut menggambarkan hubungan antara Docker Engine, Docker Image, dan Docker Container.
 
 <p align="center">
-  <img src="../assets/diagrams/Module-01-concept-diagram.png" alt="Docker Fundamentals Diagram" width="700">
+  <img src="../assets/diagrams/module-01-docker-fundamentals.png.jpeg" alt="Docker Fundamentals Diagram" width="700">
 </p>
 
 # Docker Workflow
