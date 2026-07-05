@@ -164,14 +164,14 @@ Saat command dijalankan, Docker akan mengecek apakah Image `nginx` sudah tersedi
 Selanjutnya Docker membuat Port Mapping antara **Host Port 8080** dan **Container Port 80**.
 Pada hasil praktik terlihat bahwa Docker membuat Port Mapping dari **Host Port 8080** menuju **Container Port 80**, sehingga aplikasi Nginx dapat diakses melalui browser.
 <p align="center">
-  <img src="../assets/screenshots/module-04/docker-ps-port-mapping.png" alt="Docker Port Mapping" width="900">
+  <img src="../assets/screenshots/Module-04/docker-ps-port-mapping.png" alt="Docker Port Mapping" width="900">
 </p>
 Saat browser mengakses `http://localhost:8080`, Docker akan meneruskan permintaan tersebut ke aplikasi Nginx yang berjalan pada **port 80** di dalam container.
 
 ### Hasil Praktik
 
 <p align="center">
-  <img src="../assets/screenshots/module-04/nginx-port-mapping.png" alt="Nginx Port Mapping" width="900">
+  <img src="../assets/screenshots/Module-04/nginx-port-mapping.png" alt="Nginx Port Mapping" width="900">
 </p>
 
 ### Kesimpulan
