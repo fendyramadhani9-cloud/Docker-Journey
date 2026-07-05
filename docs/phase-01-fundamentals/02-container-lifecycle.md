@@ -27,7 +27,7 @@ Karena menggunakan opsi `-it`, terminal akan langsung terhubung ke dalam contain
 ### Hasil Praktik
 
 <p align="center">
-  <img src="../assets/screenshots/module-02/docker-run.png" alt="Docker Run" width="900">
+  <img src="../assets/screenshots/Module-02/docker-run.png" alt="Docker Run" width="900">
 </p>
 
 ### kesimpulan
@@ -58,7 +58,7 @@ Docker hanya mencari container bernama `ubuntu1` yang sudah ada, kemudian menjal
 ### Hasil Praktik
 
 <p align="center">
-  <img src="../assets/screenshots/module-02/docker-start.png" alt="Docker Start" width="900">
+  <img src="../assets/screenshots/Module-02/docker-start.png" alt="Docker Start" width="900">
 </p>
 
 ### Kesimpulan
@@ -89,7 +89,7 @@ Container hanya **berhenti**, bukan **terhapus**. Semua data dan konfigurasi con
 ### Hasil Praktik
 
 <p align="center">
-  <img src="../assets/screenshots/module-02/docker-stop.png" alt="Docker Stop" width="900">
+  <img src="../assets/screenshots/Module-02/docker-stop.png" alt="Docker Stop" width="900">
 </p>
 
 ### Remember
@@ -120,7 +120,7 @@ Informasi yang ditampilkan meliputi Container ID, Image, Command, Status, Port, 
 ### Screenshot
 
 <p align="center">
-  <img src="../assets/screenshots/module-02/docker-ps.png" alt="Docker PS" width="900">
+  <img src="../assets/screenshots/Module-02/docker-ps.png" alt="Docker PS" width="900">
 </p>
 
 ### Remember
@@ -156,7 +156,7 @@ Jika container belum berjalan, `docker exec` tidak dapat digunakan.
 ### Screenshot
 
 <p align="center">
-  <img src="../assets/screenshots/module-02/docker-exec.png" alt="Docker Exec" width="900">
+  <img src="../assets/screenshots/Module-02/docker-exec.png" alt="Docker Exec" width="900">
 </p>
 
 ### Remember
