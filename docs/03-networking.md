@@ -53,7 +53,7 @@ Setiap container yang dibuat tanpa menentukan network akan langsung bergabung ke
 ### Hasil Praktik
 
 <p align="center">
-  <img src="../assets/screenshots/module-03/docker-network-ls.png" alt="Docker Network List" width="900">
+  <img src="../assets/screenshots/Module-03/docker-network-ls.png" alt="Docker Network List" width="900">
 </p>
 
 ### Kesimpulan
@@ -100,7 +100,7 @@ Ketika kita memanggil nama container, Docker akan menerjemahkannya menjadi alama
 ### Hasil Praktik
 
 <p align="center">
-  <img src="../assets/screenshots/module-03/docker-dns.png" alt="Docker DNS" width="900">
+  <img src="../assets/screenshots/Module-03/docker-dns.png" alt="Docker DNS" width="900">
 </p>
 
 ### Kesimpulan
@@ -143,7 +143,7 @@ Karena setiap container memiliki IP yang berbeda, Docker dapat mengetahui tujuan
 ### Hasil Praktik
 
 <p align="center">
-  <img src="../assets/screenshots/module-03/docker-ip.png" alt="Docker Container IP" width="900">
+  <img src="../assets/screenshots/Module-03/docker-ip.png" alt="Docker Container IP" width="900">
 </p>
 
 ### Kesimpulan
