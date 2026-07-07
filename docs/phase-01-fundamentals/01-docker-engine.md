@@ -93,7 +93,7 @@ Begitu juga satu Image dapat membuat banyak Container.
 Diagram berikut menggambarkan hubungan antara Docker Engine, Docker Image, dan Docker Container.
 
 <p align="center">
-  <img src="../assets/diagrams/module-01-docker-fundamentals.png.jpeg" alt="Docker Fundamentals Diagram" width="700">
+  <img src="../../assets/diagrams/module-01-docker-fundamentals.jpeg" alt="Docker Fundamentals Diagram" width="700">
 </p>
 
 # Docker Workflow
@@ -125,7 +125,7 @@ Pada modul ini saya melakukan beberapa praktik dasar:
 Docker Desktop berhasil dijalankan sebagai lingkungan utama untuk mengelola Docker Engine di Windows.
 
 <p align="center">
-  <img src="../assets/screenshots/Module-01/docker-desktop-home.png" alt="Docker Desktop" width="900">
+  <img src="../../assets/screenshots/Module-01/docker-desktop-home.png" alt="Docker Desktop" width="900">
 </p>
 ### 2. Verifikasi Instalasi Docker
 
@@ -136,7 +136,7 @@ docker version
 ```
 
 <p align="center">
-  <img src="../assets/screenshots/Module-01/docker-version.png" alt="Docker Version" width="900">
+  <img src="../../assets/screenshots/Module-01/docker-version.png" alt="Docker Version" width="900">
 </p>
 
 ### 3. Melihat Informasi Docker Engine
@@ -148,7 +148,7 @@ docker info
 ```
 
 <p align="center">
-  <img src="../assets/screenshots/Module-01/docker-info.png" alt="Docker Info" width="900">
+  <img src="../../assets/screenshots/Module-01/docker-info.png" alt="Docker Info" width="900">
 </p>
 
 ---
